@@ -1,4 +1,4 @@
-## The following functions are use to cashe the inverse
+## The following functions are use to cache the inverse
 ## of a matrix. The assist to speed up the process
 ## of calculating the inverse of a matrix multiple times.
 
